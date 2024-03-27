@@ -1,0 +1,1 @@
+A simple app displaying Movie posters from a Seriesguide JSON export.
